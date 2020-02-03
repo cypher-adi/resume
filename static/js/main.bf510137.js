@@ -10821,7 +10821,7 @@
                     }, l.a.createElement("img", {
                         className: "profile-pic",
                         src: t,
-                        alt: "Tim Baker Profile Pic"
+                        alt: "Cypher Profile Pic"
                     })), l.a.createElement("div", {
                         className: "nine columns main-col"
                     }, l.a.createElement("h2", null, "About Me"), l.a.createElement("p", null, n), l.a.createElement("div", {
